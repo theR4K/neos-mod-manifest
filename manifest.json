@@ -6770,6 +6770,30 @@
                 }
             }
         },
+        "org.theR4K.DynamicSpaceManager": {
+            "name": "DynamicSpaceManager",
+            "description": "Allows you to see dynamic variables attached to the DynamicVariablesSpace and edit it's names.",
+            "category": "Inspectors",
+            "sourceLocation": "https://github.com/theR4K/DynamicSpaceManager/",
+            "authors": {
+                "The_R4K_": {
+                    "url": "https://github.com/theR4K/"
+                }
+            },
+            "versions": {
+                "1.0.0": {
+                    "changelog": "initial release",
+                    "releaseUrl": "https://github.com/theR4K/DynamicSpaceManager/releases/tag/release_1.0.0",
+                    "artifacts": [
+                        {
+                            "url": "https://github.com/theR4K/DynamicSpaceManager/releases/download/release_1.0.0/DynamicSpaceManager.dll",
+                            "filename": "DynamicSpaceManager.dll",
+                            "sha256": "FC26D47B252B930DFA56E23F4396BF3469106BDE324D81A0A51763081508D5EB"
+                        }
+                    ]
+                }
+            }
+        },
         "net.Cyro.Proxify": {
             "name": "Proxify",
             "description": "Lets you drop LogiX registers into things that can receive reference proxies",
